@@ -1,5 +1,3 @@
-import {fetchIngredientsFailed} from "./burgerBuilder";
-
 export {
   addIngredient,
   removeIngredient,
